@@ -1,6 +1,6 @@
-### Hi there 👋
-
-<!--
+# Amol Deokate 👋
+I am aspiring Data scientist.
+## Describe about the projects
 **AmolDeokate7/AmolDeokate7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
